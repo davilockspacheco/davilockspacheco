@@ -2,7 +2,12 @@
 
 ![Backend Developer](https://img.shields.io/badge/Backend-Developer-blue?style=flat-square)
 
-Olá, sou o Davi Locks Pacheco, um desenvolvedor apaixonado por tecnologia e resolução de problemas reais por meio da programação. Estudo Técnico em Informática na SATC em Criciúma e estou sempre em busca de desafios que me ajudem a evoluir como desenvolvedor. Gosto de aprender novas tecnologias e criar soluções úteis com criatividade e eficiência. Acredito que programar vai muito além de escrever código: trata-se de criar experiências que realmente façam a diferença.
+Olá! Me chamo Davi Locks Pacheco, sou estudante de Técnico em Informática na SATC, em Criciúma, e apaixonado por tecnologia desde cedo. Sempre gostei de entender como as coisas funcionam por trás das telas e foi isso que me levou ao mundo da programação.
+
+Gosto de desenvolver projetos que tenham impacto real, seja um sistema de cadastro, um site interativo ou um app completo. Meu foco principal está no backend, mas também curto explorar o front-end com HTML, CSS e JavaScript.
+
+Estou sempre buscando aprender algo novo, experimentar tecnologias diferentes e evoluir como desenvolvedor. Para mim, programar é mais do que código: é resolver problemas, criar soluções e transformar ideias em realidade.
+
 
 ---
 
