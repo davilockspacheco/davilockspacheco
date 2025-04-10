@@ -25,4 +25,3 @@ Estou sempre buscando aprender algo novo, experimentar tecnologias diferentes e 
 ### 📫 Contato
 
 - Email: davilockspacheco@gmail.com  
-- GitHub: [github.com/davilockspacheco](https://github.com/davilockspacheco)
